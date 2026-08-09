@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction App
+# 🚗 Car Price Prediction Website
 
 An end-to-end Machine Learning web application that predicts the estimated resale value of used cars based on market features. Built with a **FastAPI** backend to serve the model and a modern **Streamlit** frontend user interface.
 
